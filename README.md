@@ -7,5 +7,6 @@ To enhance basic programming skills this 100 days of coding task is done
 
 3] [Day3:Write a program that greets the user ](day003.md)
 
-4] [Day4:]
+4] [Day4:Write a program that reads an integer number and prints its previous and next numbers.](day005.md)
+5] [day5:]
 
