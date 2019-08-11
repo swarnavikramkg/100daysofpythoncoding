@@ -5,3 +5,5 @@ To enhance basic programming skills this 100 days of coding task is done
 
 2] [Day2:a) sum of 3 numbers b) area of right angled triangle](day002.md)
 
+3] [Day3:]
+
